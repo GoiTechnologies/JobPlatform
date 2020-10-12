@@ -1,0 +1,51 @@
+#global{
+    background:#03A9F4;
+    width: 100%;
+    height: 100%;
+}
+
+#second{
+    background:white;
+    margin-bottom: 60px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 27px;
+    height: 600px;
+    width: 1200px;
+    border-radius: 10px;
+
+}
+
+#fo{
+    height: 200px;
+    width: 260px;
+    float: left;
+    
+}
+
+#arriba{
+    float: left;
+    margin-left: 70px;
+    margin-top: 5px;
+    height: 195px;
+    width: 600px;
+    background: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
+
+#uno{
+    margin-bottom: 60px;
+    margin-left:90px;
+    margin-right: 160px;
+    margin-top: 33px;
+    height: 200px;
+    width: 1000px;
+    background: white;
+}
+h4{
+    color: black;
+    font-family: sans-serif;
+    font-size: 14px;
+}

@@ -1,0 +1,405 @@
+#fondot{
+    background-color:white;
+    width:280px;
+    margin-top:-15px;
+    margin-bottom:0px;
+    border-top-right-radius:60px;
+    border-bottom-right-radius: 60px;;
+    margin-left: -40px;
+    margin-top: -8px;
+    margin-bottom: -7px;
+}
+
+#barra{
+    width:100%;
+    height:10px;
+    background-color:#0066b2;
+    margin-top:-10px; 
+}
+a:link, a:visited, a:active{
+    text-decoration:none;
+}
+
+.form-control{
+    border-radius:30px;
+    width:100%;
+    height:50px; 
+    border-color:white;     
+}
+.input-group{
+    border-radius:30px;
+    width:410px;
+    height:50px;      
+    margin-left:1%;
+    margin-top:-10px;  
+   
+}
+.btn-default{
+    background-color:white;
+    width:50px;
+    height:50px;
+    border-radius:30px;
+}
+
+
+#title{
+    width:170px;
+    height:40px;
+    float:left;
+    background-color:#0066b2;
+    border-radius:30px;
+    margin-left:-30px;
+}
+
+#title h3{
+    color:white;
+    margin-top:8px;
+    letter-spacing:2px;
+    font-size:22px;    
+    text-align: right;
+    margin-right:30px;
+    font-family: Montserrat light;
+}
+
+
+#haber{
+    width:80px;
+    position:absolute;
+    margin-right:70px;
+    height:80px; 
+}
+.portfolio-item{
+    border-radius:50%;
+    width:200px;
+}
+
+.mySlides {display:none;}
+
+
+
+
+#parte1{
+    height: 425px;
+    background-color:#e8e8e8;
+    border-radius: 4px;
+}
+
+
+
+#fotoperfil{
+    border-radius:50%;
+    text-align: center;
+    margin-top:2px;
+    background-repeat: no-repeat;
+    background-size: 145px 145px;
+    align-content: center;
+    text-align: center;
+    margin-left: 50px;
+}
+
+#borderimage{
+    width: 157px;
+    height: 155px;
+    border-radius: 50%;
+    border: 5px solid;
+    border-color: #0066b2;
+
+}
+
+
+#fotoperfil .custom-file{
+    border-radius: 50%;
+    width: 45px;
+    height:43px;
+    margin-left:100px;
+    margin-top:-65px;
+}
+#pr{
+    color: #0066b2;
+    margin-top:-65px;
+    margin-left:-19px;
+    position: absolute;
+}
+
+
+#fotoperfil .custom-file-input{
+    width:45px;
+    height:43px;
+    font-family:'Montserrat-Light',arial;
+    border-radius:50%;
+    margin-top:-65px;
+}
+
+
+
+
+#tel{
+    margin-top:25px;
+    height: 200px;
+    border-radius: 5px;
+    width: 95%;
+}
+
+
+#tel .form-control{
+    height:36px;
+    width:100%;
+    border-radius: 5px;
+    background-color:#acacac;
+    margin-top:0px;
+    border-color:#acacac;
+    color:white;
+    font-family:Montserrat Light;
+    font-size:18px;
+    margin-left: 5px;
+}
+#tel .form-control::placeholder{
+    color:white;
+}
+
+
+#btnguardar{
+    float: right;
+    margin-top: -50px;
+    margin-right: 120px;
+    width: 100px;
+}
+#btnguardar .btn-primary{
+    background-color: #0066b2;
+    width: 100px;
+}
+
+#btnguardar .btn-primary:hover{
+    background-color: #00aeef;
+}
+
+
+
+
+#parte2{
+    height: 425px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+
+#pdos{
+    height: 75px;
+    border-radius: 5px;
+    background-color:#e8e8e8;
+    margin-left:-15px;
+
+}
+
+#consultas{
+    float: left;
+    font-family: 'Montserrat-light',arial;
+    text-align:left;
+    margin-left:5px;
+}
+
+#consultas h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px;
+}
+
+#stado{
+    background-color: #0066b2;
+    color: white;
+    width: 30px;
+    height:30px;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 6px;
+    float: right;
+    margin-right: 5px;
+}
+#stado p{
+    margin-top: 4px;
+    margin-left: 5px;
+}
+#check{
+    background-color: #0066b2;
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 14px;
+    float: right;
+    margin-right:5px;
+    margin-top: 6px;
+    text-align: center;
+}
+#check p{
+    margin-top:5px;
+    font-family: 'Nexa Light';
+}
+
+#datosaca{
+    width: 200px;
+    height: 35px;
+    background-color: #0066b2;
+    color: white;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    float: left;
+    margin-left: -15px;
+    margin-top: 0px;
+
+}
+#datosaca h3{
+    font-family: 'Montserrat-light',arial;
+    font-size:17px;
+    margin-top: 9px;
+    text-align: center;
+}
+
+#muestranivel{
+    border-radius: 4px;
+    background-color: #e8e8e8;
+    height: 335px;
+    margin-top:15px;
+    font-family: 'Montserrat-light',arial;
+    padding-left: 15px;
+    margin-left: -15px;
+}
+
+
+#div{
+    background-color: #acacac;
+    margin-left:80px;
+    border-radius: 6px;
+    margin-top:5px;
+}
+
+#nuno{
+    height: 30px;
+    background-color: #0066b2;
+    color: white;
+    border-radius: 6px;
+    margin-left:5px;
+    font-size:18px;
+    margin-top: 0px;
+    text-align: center;
+}
+#divsecu{
+    background-color: #acacac;
+    margin-left:80px;
+    border-radius: 6px;
+    margin-top:5px;
+    float: left;
+}
+
+#ndos{
+    height: 30px;
+    background-color: #0066b2;
+    color: white;
+    border-radius: 6px;
+    margin-left:5px;
+    margin-top: 7px;
+    font-size:18px;
+    text-align: center;
+}
+
+
+
+#divbach{
+    background-color: #acacac;
+    margin-left:80px;
+    border-radius: 6px;
+    margin-top:5px;
+    float: left;
+}
+
+
+#n3{
+    height: 27px;
+    background-color: #0066b2;
+    color: white;
+    border-radius: 6px;
+    float:left;
+    margin-left:5px;
+    margin-top: 7px;
+    font-size:18px;
+    width: 195px;
+    text-align: center;
+}
+
+
+
+#divuni{
+    background-color: #acacac;
+    margin-left:80px;
+    border-radius: 6px;
+    margin-top:5px;
+    float: left;
+}
+#n4{
+    height: 30px;
+    background-color: #0066b2;
+    color: white;
+    border-radius: 6px;
+    float:left;
+    margin-left:5px;
+    margin-top: 7px;
+    font-size:18px;
+    width: 195px;
+    text-align: center;
+}
+
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.parent2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.parent3{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#divpos{
+    background-color: #acacac;
+    margin-left:5px;
+    border-radius: 6px;
+    margin-top:5px;
+    float: left;
+}
+#n5{
+    height: 30px;
+    background-color: #0066b2;
+    color: white;
+    border-radius: 6px;
+    float:left;
+    margin-left:5px;
+    margin-top:7px;
+    font-size:18px;
+    width: 195px;
+    text-align: center;
+}
+
+/* LEVEL IMG */
+
+#imglevel{
+    margin-top:-5px;
+    float: left;
+    margin-left: -30px;
+}
+
+
+
+#flexuno{
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+#box{
+    width: 200px;
+    margin-top: 10px;
+}

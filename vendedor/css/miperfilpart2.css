@@ -1,0 +1,754 @@
+#title2{
+    width:315px;
+    height:40px;
+    background-color:#0066b2;
+    margin-top:50px;
+    border-radius:30px;
+    margin-left: -40px;
+    float:left;
+}
+
+#title2 h3{
+    font-family: Montserrat Light;
+    font-size: 20px;
+    text-align:right;
+    margin-top:8px;
+    margin-right:30px;
+    color:white;
+}
+
+
+
+#Primaria{
+    width:900px;
+    height:40px;
+    margin-left:10px;
+    margin-top:10px;
+    font-family: Montserrat Light;
+    font-size: 20px;
+    padding-top:10px;
+}
+.parent{
+    display: flex;
+}
+
+#Primaria .btn{
+    border-color:#acacac;
+    background-color:#acacac;
+    color: white;
+    border-radius:5px;
+    width:200px;
+    font-size:20px;
+    font-family: Montserrat Light;
+    height:40px;
+}
+
+#Primaria .btn:hover{
+    background-color:#0066b2;
+    border-color:#0066b2;
+}
+
+
+#Primaria .input-group{
+    background-color:#acacac;
+    width:600px;
+    margin-left:20px;
+    height:40px;
+    border-radius:5px;
+    color:white;
+    margin-top:1px;
+}
+
+
+#Primaria .form-control{
+    background-color:#acacac;
+    width:600px;
+    color:white;
+    scrollbar-arrow-color:white;
+    height: 40px;
+    border-radius:5px;
+    font-size:18px;
+}
+
+
+#Primaria .form-control::placeholder{
+    color:white;
+}
+#fnpr{
+    display: none;
+}
+
+
+
+
+
+#Secundaria{
+    width:900px;
+    height:40px;
+    margin-left:10px;
+    margin-top:10px;
+    font-family: Montserrat Light;
+    font-size: 20px;
+    padding-top:10px;
+}
+
+
+#Secundaria .btn{
+    border-color:#acacac;
+    background-color:#acacac;
+    color: white;
+    border-radius:5px;
+    width:200px;
+    font-size:20px;
+    font-family: Montserrat Light;
+    height:40px;
+}
+
+#Secundaria .btn:hover{
+    background-color:#0066b2;
+    border-color:#0066b2;
+}
+
+
+#Secundaria .input-group{
+    background-color:#acacac;
+    width:600px;
+    margin-left:20px;
+    height:40px;
+    border-radius:5px;
+    color:white;
+    margin-top:1px;
+}
+
+
+#Secundaria .form-control{
+    background-color:#acacac;
+    width:600px;
+    color:white;
+    scrollbar-arrow-color:white;
+    height: 40px;
+    border-radius:5px;
+    font-size:18px;
+}
+
+
+#Secundaria .form-control::placeholder{
+    color:white;
+}
+
+#fnse{
+    display: none;
+}
+
+
+
+
+
+
+
+
+#Bachillerato{
+    width:900px;
+    height:40px;
+    margin-left:10px;
+    margin-top:10px;
+    font-family: Montserrat Light;
+    font-size: 20px;
+    padding-top:10px;
+}
+
+
+#Bachillerato .btn{
+    border-color:#acacac;
+    background-color:#acacac;
+    color: white;
+    border-radius:5px;
+    width:200px;
+    font-size:20px;
+    font-family: Montserrat Light;
+    height:40px;
+}
+
+#Bachillerato .btn:hover{
+    background-color:#0066b2;
+    border-color:#0066b2;
+}
+
+
+#Bachillerato .input-group{
+    background-color:#acacac;
+    width:600px;
+    margin-left:20px;
+    height:40px;
+    border-radius:5px;
+    color:white;
+    margin-top:1px;
+}
+
+
+#Bachillerato .form-control{
+    background-color:#acacac;
+    width:600px;
+    color:white;
+    scrollbar-arrow-color:white;
+    height: 40px;
+    border-radius:5px;
+    font-size:18px;
+}
+
+
+#Bachillerato .form-control::placeholder{
+    color:white;
+}
+
+#fnba{
+    display: none;
+}
+
+
+
+
+
+#Universidad{
+    width:900px;
+    height:40px;
+    margin-left:10px;
+    margin-top:10px;
+    font-family: Montserrat Light;
+    font-size: 20px;
+    padding-top:10px;
+}
+
+
+#Universidad .btn{
+    border-color:#acacac;
+    background-color:#acacac;
+    color: white;
+    border-radius:5px;
+    width:200px;
+    font-size:20px;
+    font-family: Montserrat Light;
+    height:40px;
+}
+
+#Universidad .btn:hover{
+    background-color:#0066b2;
+    border-color:#0066b2;
+}
+
+
+#Universidad .input-group{
+    background-color:#acacac;
+    width:600px;
+    margin-left:20px;
+    height:40px;
+    border-radius:5px;
+    color:white;
+    margin-top:1px;
+}
+
+
+#Universidad .form-control{
+    background-color:#acacac;
+    width:600px;
+    color:white;
+    scrollbar-arrow-color:white;
+    height: 40px;
+    border-radius:5px;
+    font-size:18px;
+}
+
+
+#Universidad .form-control::placeholder{
+    color:white;
+}
+
+#fnun{
+    display: none;
+}
+
+
+
+
+
+
+#Posgrado{
+    width:900px;
+    height:40px;
+    margin-left:10px;
+    margin-top:10px;
+    font-family: Montserrat Light;
+    font-size: 20px;
+    padding-top:10px;
+}
+
+
+#Posgrado .btn{
+    border-color:#acacac;
+    background-color:#acacac;
+    color: white;
+    border-radius:5px;
+    width:200px;
+    font-size:20px;
+    font-family: Montserrat Light;
+    height:40px;
+}
+
+#Posgrado .btn:hover{
+    background-color:#0066b2;
+    border-color:#0066b2;
+}
+
+
+#Posgrado .input-group{
+    background-color:#acacac;
+    width:600px;
+    margin-left:20px;
+    height:40px;
+    border-radius:5px;
+    color:white;
+    margin-top:1px;
+}
+
+
+#Posgrado .form-control{
+    background-color:#acacac;
+    width:600px;
+    color:white;
+    scrollbar-arrow-color:white;
+    height: 40px;
+    border-radius:5px;
+    font-size:18px;
+}
+
+
+#Posgrado .form-control::placeholder{
+    color:white;
+}
+
+#fnpo{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#titletres{
+    width: 205px;
+    height: 40px;
+    background-color: #0066b2;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-left: -119px;
+    float: left;
+    margin-top:0px;
+}
+
+
+#titletres h3{
+    font-family: Montserrat light;
+    font-size:20px;
+    text-align: right;
+    margin-top: 8px;
+    margin-right: 20px;
+    color:white;
+}
+
+
+
+#espanol{
+    border-radius:50%;
+    width: 85px;
+    height: 80px;
+    float:left;
+    margin-left:20px;
+    background-color: #acacac;
+    font-family:Montserrat Light;
+    color: white;
+    
+}
+
+#ingles, #chino, #aleman, #frances, #italiano, #otro{
+    border-radius:50%;
+    width: 85px;
+    height: 80px;
+    float:left;
+    margin-left:20px;
+    background-color: #acacac;
+    font-family:Montserrat Light;
+    color: white;
+    
+}
+
+#fondoidioma .btn{
+    border-color:#acacac;
+    color: white;
+    background-color:#acacac;
+    border-radius:50%;
+    width:87px;
+    font-size:16px;
+    height:80px;
+}
+#fondoidioma .btn:hover{
+    border-color:#0066b2;
+    background-color:#0066b2;
+    border-radius: 50%;
+    color: white;
+}
+#fondoidioma .btn::placeholder{
+    color: white;
+}
+
+
+
+
+#titlecuatro{
+    width: 300px;
+    height: 40px;
+    background-color: #0066b2;
+    margin-top: 60px;
+    margin-left: -120px;
+    float: left;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+#titlecuatro h3{
+    font-family: Montserrat Light;
+    font-size: 20px;
+    text-align: right;
+    margin-top: 8px;
+    margin-right: 20px;
+    color:white;
+}
+
+#fondoexperiencia{
+    height: 350px;
+    margin-top: 70px;
+
+}
+
+
+#empleos .form-control{
+
+    border-radius: 4px;
+    background-color:#acacac;
+    margin-top:5px;
+    border-color:#acacac;
+    color:white;
+    font-family:Montserrat Light;
+    font-size:18px;
+}
+#empleos .form-control::placeholder{
+    color:white;
+}
+
+
+#textarea{
+    height: 120px;
+}
+
+#textarea .form-control{
+    height: 120px;
+    color:white;
+    font-size:18px;
+}
+
+#textarea .form-control::placeholder{
+    color:white;
+}
+
+
+
+
+/* SUB FORMS */
+
+
+#fondoexperiencia2{
+    width: 65%;
+    height: 330px;
+    margin-top: 70px;
+    display: none;
+    margin-right: 30%;
+    margin-left:190px;
+}
+
+
+#fondoexperiencia2 .form-control{
+    height:36px;
+    width:850px;
+    border-radius: 5px;
+    background-color:#acacac;
+    margin-top:15px;
+    border-color:#acacac;
+    color:white;
+    font-family:Montserrat Light;
+    font-size:18px;
+}
+#fondoexperiencia2 .form-control::placeholder{
+    color:white;
+}
+
+
+
+
+#formrangedos{
+    width: 700px;
+    height: 45px;
+    margin-top:5px;
+}
+
+
+#formrangedos .form-control{
+    width: 11%;
+    height: 36px;
+    background-color:#acacac;
+    margin-left:15px;
+    font-family:Montserrat Light;
+    font-size:18px;
+    border-radius: 5px;
+    border-color:#acacac;
+
+}
+#formrangedos .form-control::placeholder{
+    color:white;
+}
+
+#textarea2{
+    height: 120px;
+}
+
+#textarea2 .form-control{
+    height: 120px;
+    color:white;
+    font-size:18px;
+}
+
+#textarea2 .form-control::placeholder{
+    color:white;
+}
+
+
+/* FIN PRIMER SUBFORM */
+
+
+/* SEGUNDO SUBFORM */
+
+
+
+
+
+
+
+
+#form-range3{
+    margin-left: 190px;
+    width: 850px;
+    margin-right:30%;
+}
+#form-range3 .form-control{
+    width:60px;
+    font-family:Montserrat Light;
+    margin-left: 15px;
+    font-size:18px;
+}
+#form-range3 .form-control::placeholder{
+    color:white;
+}
+
+
+
+#textarea3{
+    height: 120px;
+}
+
+#textarea3 .form-control{
+    height: 120px;
+    color:white;
+    font-size:18px;
+}
+
+#textarea3 .form-control::placeholder{
+    color:white;
+}
+
+
+
+
+/* FIN SEGUNDO SUBFORM */
+
+
+
+
+
+#plus{
+    border-radius: 50%;
+    width:52px;
+    height:50px;
+    margin-top:20px;
+    background-color: #acacac;
+    margin-left:600px;
+}
+
+
+#plus .btn{
+    width: 52px;
+    height: 50px;
+    border-radius:50%;
+    color:white;
+}
+
+
+#plus .btn:hover{
+    background-color: #0066b2;
+    text-decoration-color: none;
+}
+
+
+#plus .fa-plus{
+    color:white;
+}
+
+
+
+
+
+
+
+#plus2{
+    border-radius: 50%;
+    width:52px;
+    height:50px;
+    margin-top:20px;
+    background-color: #acacac;
+    margin-left:400px;
+}
+
+
+#plus2 .btn{
+    width: 52px;
+    height: 50px;
+    border-radius:50%;
+    color:white;
+}
+
+
+#plus2 .btn:hover{
+    background-color: #0066b2;
+    text-decoration-color: none;
+}
+
+
+#plus2 .fa-plus{
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#titlecinco{
+    width:240px;
+    height:45px;
+    float:left;
+    background-color:#0066b2;
+    border-radius:30px;
+    margin-left:-30px;
+}
+
+#titlecinco h3{
+    color:white;
+    margin-top:8px;
+    letter-spacing:2px;
+    font-size:22px;    
+    text-align: right;
+    margin-right:30px;
+    font-family: 'Montserrat-Light', arial;
+}
+
+
+
+#fondocat2{
+    width:75%;
+    height:260px;
+    background-color:#eaeaea;
+    margin-left:130px;
+}
+
+#fondocat2 p{
+    color:#2e2e2e;
+    font-family:'Montserrat-Light', arial;
+    font-size:20px;
+    margin-left:15px;
+}
+#cir{
+    padding-left:85px;
+    padding-right:100px;
+    margin-top:20px;
+}
+
+
+#ofipopular{
+    float:left;
+
+    background-color:#acacac;
+    position:relative;
+    border-radius:50%;
+    height:160px;
+    width:165px;    
+}
+
+#servprofesional, #empleodiverso, #empleocorp{
+    float:left;
+
+    background-color:#acacac;
+    position:relative;
+    border-radius:50%;
+    height:160px;
+    width:165px;
+    margin-left:60px;
+    
+}
+#empleos{
+    margin-top: 25px;
+
+}
+#empleos .form-control{
+    background-color: #acacac;
+}
+
+#cir .btn{
+    border-color:#acacac;
+    background-color:#acacac;
+    color: white;
+    border-radius:50%;
+    width:165px;
+    font-size:20px;
+    height:160px;
+    font-family: 'Montserrat-Light', arial;
+}
+#cir .btn:hover{
+    border-color:#0066b2;
+    background-color:#0066b2;
+    border-radius: 50%;
+}
+
+
+.col-sm-10 .form-control{
+    color: white;
+}

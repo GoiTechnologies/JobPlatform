@@ -1,0 +1,953 @@
+@media (min-width: 1200px) and (max-width: 1169px){
+    
+    #card1{
+        margin-top:50px;
+        margin-left:100;
+    }
+    
+    
+      body{
+        background-image: url('../img/hr.jpg');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    
+    #buscarempleo{
+        float:left;
+        position: relative;
+    }
+    
+    #txt1{
+        float: center;
+    }
+    #txt1 h2{
+        color: white;
+        font-family: font96221;
+        font-size: 34px;
+        margin-left:240px;
+        margin-top:-145px;
+    }
+    
+    
+    
+    #contratar{
+    
+        position: relative;
+    }
+    
+    
+    #txt2{
+        float: center;
+        font-family: 'Montserrat-Bold', arial;
+    
+    }
+    #txt2 h2{
+        color: white;
+        font-family: font96221;
+        font-size: 34px;
+        margin-left:55px;
+        margin-top:-145px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #fondo{
+        background-color:white;
+        width:280px;
+        height:100%;
+        margin-top:0px;
+        margin-bottom:-7px;
+        border-radius:60px;
+        float:left;
+    }
+    
+    #barra{
+        width:100%;
+        height:10px;
+        background-color:#0066b2;    
+    }
+    a:link, a:visited, a:active{
+        text-decoration:none;
+    }
+    .btn-primary{    
+        color:white;    
+        border-radius:30px;
+        width:100%;
+        height:50px;
+        font-size:16px;    
+        background-color:#0066b2;   
+        text-align:center;
+        letter-spacing:1.4px;  
+        position:absolute;   
+        font-family: Montserrat Regular;
+    }
+    .container{
+        width: 100%;
+        
+    }
+    .form-control{
+        border-radius:30px;
+        width:100%;
+        height:50px; 
+        border-color:white;     
+    }
+    .input-group{
+        border-radius:30px;
+        width:410px;
+        height:50px;      
+        margin-left:1%;
+        margin-top:-10px;  
+       
+    }
+    .btn-default{
+        background-color:white;
+        width:50px;
+        height:50px;
+        border-radius:30px;
+    }
+    
+    
+    #title{
+        width:315px;
+        height:40px;
+        float:left;
+        background-color:#0066b2;
+        border-radius:30px;
+        margin-left:-30px;
+    }
+    
+    #title h3{
+        color:white;
+        margin-top:8px;
+        letter-spacing:2px;
+        font-size:20px;    
+        text-align: right;
+        margin-right:30px;
+        font-family: Montserrat Light;
+    }
+    #tst{
+        background-color:#008ed3;
+        position:relative;
+        border-radius:50%;
+        height:250px;
+        width:250px;
+        margin-left:0%;
+    }
+    #tst2{
+        margin-top:70px;      
+        float:center;
+        width:188px;
+        position:absolute; left:25px; 
+        color:white;
+        letter-spacing:1px;    
+        font-size:22px;
+        text-align:center;
+        font-family:"Montserrar Negra";
+    }
+    
+    #global{
+        width:100%;
+        height:100%;
+    }
+    
+    #global-uno{
+        float:left;
+        width:280px;
+        height:70px;
+        margin-left:-35px;
+    }
+    
+    #global-dos{
+        float:right;
+        width:70px;
+        height:65px;
+        margin-right:40px;
+        margin-top:3px;
+        background-color:white;
+        position:relative;
+        border-radius:50%;
+        border-color:1px solid white;
+    }
+      
+    #global-dos .dropdown{
+        float:right;
+        margin-right:65px;
+        height:45px;
+        position:relative;
+        border-radius:50%;
+        margin-right:5px;
+        margin-top:0px;
+    }
+    #global-dos .dropdown-menu{
+        margin-top:10px;
+        float:left;
+        background-color:#acacac;
+    
+    }
+    #haber{
+        width:80px;
+        position:absolute;
+        margin-right:70px;
+        height:80px; 
+    }
+    .portfolio-item{
+        border-radius:50%;
+        width:240px;
+    }
+    
+    
+    
+    
+    .mySlides {display:none;}
+    
+}
+
+@media (min-width: 768px) and (max-width: 979px){
+
+      .selector-for-some-widget {
+        box-sizing: content-box;
+      }
+    
+    
+    #card1{
+        margin-top:50px;
+        margin-left:100;
+    }
+    
+    
+      body{
+        background-image: url('../img/hr.jpg');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    
+    #buscarempleo{
+        float:left;
+        position: relative;
+    }
+    
+    #txt1{
+        float: center;
+    }
+    #txt1 h2{
+        color: white;
+        font-family: font96221;
+        font-size: 34px;
+        margin-left:240px;
+        margin-top:-145px;
+    }
+    
+    
+    
+    #contratar{
+    
+        position: relative;
+    }
+    
+    
+    #txt2{
+        float: center;
+        font-family: 'Montserrat-Bold', arial;
+    
+    }
+    #txt2 h2{
+        color: white;
+        font-family: font96221;
+        font-size: 34px;
+        margin-left:55px;
+        margin-top:-145px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #fondo{
+        background-color:white;
+        width:280px;
+        height:100%;
+        margin-top:0px;
+        margin-bottom:-7px;
+        border-radius:60px;
+        float:left;
+    }
+    
+    #barra{
+        width:100%;
+        height:10px;
+        background-color:#0066b2;    
+    }
+    a:link, a:visited, a:active{
+        text-decoration:none;
+    }
+    .btn-primary{    
+        color:white;    
+        border-radius:30px;
+        width:100%;
+        height:50px;
+        font-size:16px;    
+        background-color:#0066b2;   
+        text-align:center;
+        letter-spacing:1.4px;  
+        position:absolute;   
+        font-family: Montserrat Regular;
+    }
+    .container{
+        width: 100%;
+        
+    }
+    .form-control{
+        border-radius:30px;
+        width:100%;
+        height:50px; 
+        border-color:white;     
+    }
+    .input-group{
+        border-radius:30px;
+        width:410px;
+        height:50px;      
+        margin-left:1%;
+        margin-top:-10px;  
+       
+    }
+    .btn-default{
+        background-color:white;
+        width:50px;
+        height:50px;
+        border-radius:30px;
+    }
+    
+    
+    #title{
+        width:315px;
+        height:40px;
+        float:left;
+        background-color:#0066b2;
+        border-radius:30px;
+        margin-left:-30px;
+    }
+    
+    #title h3{
+        color:white;
+        margin-top:8px;
+        letter-spacing:2px;
+        font-size:20px;    
+        text-align: right;
+        margin-right:30px;
+        font-family: Montserrat Light;
+    }
+    #tst{
+        background-color:#008ed3;
+        position:relative;
+        border-radius:50%;
+        height:250px;
+        width:250px;
+        margin-left:0%;
+    }
+    #tst2{
+        margin-top:70px;      
+        float:center;
+        width:188px;
+        position:absolute; left:25px; 
+        color:white;
+        letter-spacing:1px;    
+        font-size:22px;
+        text-align:center;
+        font-family:"Montserrar Negra";
+    }
+    
+    #global{
+        width:100%;
+        height:100%;
+    }
+    
+    #global-uno{
+        float:left;
+        width:280px;
+        height:70px;
+        margin-left:-35px;
+    }
+    
+    #global-dos{
+        float:right;
+        width:70px;
+        height:65px;
+        margin-right:40px;
+        margin-top:3px;
+        background-color:white;
+        position:relative;
+        border-radius:50%;
+        border-color:1px solid white;
+    }
+      
+    #global-dos .dropdown{
+        float:right;
+        margin-right:65px;
+        height:45px;
+        position:relative;
+        border-radius:50%;
+        margin-right:5px;
+        margin-top:0px;
+    }
+    #global-dos .dropdown-menu{
+        margin-top:10px;
+        float:left;
+        background-color:#acacac;
+    
+    }
+    #haber{
+        width:80px;
+        position:absolute;
+        margin-right:70px;
+        height:80px; 
+    }
+    .portfolio-item{
+        border-radius:50%;
+        width:240px;
+    }
+    
+    
+    
+    
+    .mySlides {display:none;}
+    
+}
+
+@media (max-width: 767px){
+    @font-face{
+        font-family: myFirstFont;
+        src: url(Fonts/montserrat/montserrat-light.ttf);
+        src: url(Fonts/montserrat/Montserrat-Bold.ttf);
+        src: url(Fonts/montserrat/Montserrat-Regular.ttf);
+      }
+      .selector-for-some-widget {
+        box-sizing: content-box;
+      }
+    
+    
+    #card1{
+        margin-top:50px;
+        margin-left:100;
+    }
+    
+    
+      body{
+        background-image: url('../img/hr.jpg');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    
+    #buscarempleo{
+        float:left;
+        position: relative;
+    }
+    
+    #txt1{
+        float: center;
+    }
+    #txt1 h2{
+        color: white;
+        font-family: font96221;
+        font-size: 34px;
+        margin-left:240px;
+        margin-top:-145px;
+    }
+    
+    
+    
+    #contratar{
+    
+        position: relative;
+    }
+    
+    
+    #txt2{
+        float: center;
+        font-family: 'Montserrat-Bold', arial;
+    
+    }
+    #txt2 h2{
+        color: white;
+        font-family: font96221;
+        font-size: 34px;
+        margin-left:55px;
+        margin-top:-145px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #fondo{
+        background-color:white;
+        width:280px;
+        height:100%;
+        margin-top:0px;
+        margin-bottom:-7px;
+        border-radius:60px;
+        float:left;
+    }
+    
+    #barra{
+        width:100%;
+        height:10px;
+        background-color:#0066b2;    
+    }
+    a:link, a:visited, a:active{
+        text-decoration:none;
+    }
+    .btn-primary{    
+        color:white;    
+        border-radius:30px;
+        width:100%;
+        height:50px;
+        font-size:16px;    
+        background-color:#0066b2;   
+        text-align:center;
+        letter-spacing:1.4px;  
+        position:absolute;   
+        font-family: Montserrat Regular;
+    }
+    .container{
+        width: 100%;
+        
+    }
+    .form-control{
+        border-radius:30px;
+        width:100%;
+        height:50px; 
+        border-color:white;     
+    }
+    .input-group{
+        border-radius:30px;
+        width:410px;
+        height:50px;      
+        margin-left:1%;
+        margin-top:-10px;  
+       
+    }
+    .btn-default{
+        background-color:white;
+        width:50px;
+        height:50px;
+        border-radius:30px;
+    }
+    
+    
+    #title{
+        width:315px;
+        height:40px;
+        float:left;
+        background-color:#0066b2;
+        border-radius:30px;
+        margin-left:-30px;
+    }
+    
+    #title h3{
+        color:white;
+        margin-top:8px;
+        letter-spacing:2px;
+        font-size:20px;    
+        text-align: right;
+        margin-right:30px;
+        font-family: Montserrat Light;
+    }
+    #tst{
+        background-color:#008ed3;
+        position:relative;
+        border-radius:50%;
+        height:250px;
+        width:250px;
+        margin-left:0%;
+    }
+    #tst2{
+        margin-top:70px;      
+        float:center;
+        width:188px;
+        position:absolute; left:25px; 
+        color:white;
+        letter-spacing:1px;    
+        font-size:22px;
+        text-align:center;
+        font-family:"Montserrar Negra";
+    }
+    
+    #global{
+        width:100%;
+        height:100%;
+    }
+    
+    #global-uno{
+        float:left;
+        width:280px;
+        height:70px;
+        margin-left:-35px;
+    }
+    
+    #global-dos{
+        float:right;
+        width:70px;
+        height:65px;
+        margin-right:40px;
+        margin-top:3px;
+        background-color:white;
+        position:relative;
+        border-radius:50%;
+        border-color:1px solid white;
+    }
+      
+    #global-dos .dropdown{
+        float:right;
+        margin-right:65px;
+        height:45px;
+        position:relative;
+        border-radius:50%;
+        margin-right:5px;
+        margin-top:0px;
+    }
+    #global-dos .dropdown-menu{
+        margin-top:10px;
+        float:left;
+        background-color:#acacac;
+    
+    }
+    #haber{
+        width:80px;
+        position:absolute;
+        margin-right:70px;
+        height:80px; 
+    }
+    .portfolio-item{
+        border-radius:50%;
+        width:240px;
+    }
+    
+    
+    
+    
+    .mySlides {display:none;}
+    
+}
+
+@media (max-width: 480px){
+    @font-face{
+        font-family: myFirstFont;
+        src: url(Fonts/montserrat/montserrat-light.ttf);
+        src: url(Fonts/montserrat/Montserrat-Bold.ttf);
+        src: url(Fonts/montserrat/Montserrat-Regular.ttf);
+      }
+      .selector-for-some-widget {
+        box-sizing: content-box;
+      }
+    
+    
+    #card1{
+        margin-top:50px;
+        margin-left:100;
+    }
+    
+    
+      body{
+        background-image: url('../img/hr.jpg');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    
+    #buscarempleo{
+        float:left;
+        position: relative;
+    }
+    
+    #txt1{
+        float: center;
+    }
+    #txt1 h2{
+        color: white;
+        font-family: font96221;
+        font-size: 34px;
+        margin-left:240px;
+        margin-top:-145px;
+    }
+    
+    
+    
+    #contratar{
+    
+        position: relative;
+    }
+    
+    
+    #txt2{
+        float: center;
+        font-family: 'Montserrat-Bold', arial;
+    
+    }
+    #txt2 h2{
+        color: white;
+        font-family: font96221;
+        font-size: 34px;
+        margin-left:55px;
+        margin-top:-145px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #fondo{
+        background-color:white;
+        width:280px;
+        height:100%;
+        margin-top:0px;
+        margin-bottom:-7px;
+        border-radius:60px;
+        float:left;
+    }
+    
+    #barra{
+        width:100%;
+        height:10px;
+        background-color:#0066b2;    
+    }
+    a:link, a:visited, a:active{
+        text-decoration:none;
+    }
+    .btn-primary{    
+        color:white;    
+        border-radius:30px;
+        width:100%;
+        height:50px;
+        font-size:16px;    
+        background-color:#0066b2;   
+        text-align:center;
+        letter-spacing:1.4px;  
+        position:absolute;   
+        font-family: Montserrat Regular;
+    }
+    .container{
+        width: 100%;
+        
+    }
+    .form-control{
+        border-radius:30px;
+        width:100%;
+        height:50px; 
+        border-color:white;     
+    }
+    .input-group{
+        border-radius:30px;
+        width:410px;
+        height:50px;      
+        margin-left:1%;
+        margin-top:-10px;  
+       
+    }
+    .btn-default{
+        background-color:white;
+        width:50px;
+        height:50px;
+        border-radius:30px;
+    }
+    
+    
+    #title{
+        width:315px;
+        height:40px;
+        float:left;
+        background-color:#0066b2;
+        border-radius:30px;
+        margin-left:-30px;
+    }
+    
+    #title h3{
+        color:white;
+        margin-top:8px;
+        letter-spacing:2px;
+        font-size:20px;    
+        text-align: right;
+        margin-right:30px;
+        font-family: Montserrat Light;
+    }
+    #tst{
+        background-color:#008ed3;
+        position:relative;
+        border-radius:50%;
+        height:250px;
+        width:250px;
+        margin-left:0%;
+    }
+    #tst2{
+        margin-top:70px;      
+        float:center;
+        width:188px;
+        position:absolute; left:25px; 
+        color:white;
+        letter-spacing:1px;    
+        font-size:22px;
+        text-align:center;
+        font-family:"Montserrar Negra";
+    }
+    
+    #global{
+        width:100%;
+        height:100%;
+    }
+    
+    #global-uno{
+        float:left;
+        width:280px;
+        height:70px;
+        margin-left:-35px;
+    }
+    
+    #global-dos{
+        float:right;
+        width:70px;
+        height:65px;
+        margin-right:40px;
+        margin-top:3px;
+        background-color:white;
+        position:relative;
+        border-radius:50%;
+        border-color:1px solid white;
+    }
+      
+    #global-dos .dropdown{
+        float:right;
+        margin-right:65px;
+        height:45px;
+        position:relative;
+        border-radius:50%;
+        margin-right:5px;
+        margin-top:0px;
+    }
+    #global-dos .dropdown-menu{
+        margin-top:10px;
+        float:left;
+        background-color:#acacac;
+    
+    }
+    #haber{
+        width:80px;
+        position:absolute;
+        margin-right:70px;
+        height:80px; 
+    }
+    .portfolio-item{
+        border-radius:50%;
+        width:240px;
+    }
+    
+    
+    
+    
+    .mySlides {display:none;}
+    
+}
+

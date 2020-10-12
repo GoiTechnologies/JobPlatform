@@ -1,0 +1,127 @@
+html *{
+    -webkit-font-smoothing: antialiased;
+}
+
+
+#fondo{
+    background-color:white;
+    width:280px;
+    height:100%;
+    margin-top:-5px;
+    margin-bottom:0px;
+    border-top-right-radius:60px;
+    border-bottom-right-radius: 60px;;
+    margin-left: -40px;
+    margin-top: -8px;
+    margin-bottom: -7px;
+}
+
+#barra{
+    width:100%;
+    height:11px;
+    background-color:#0066b2;
+    margin-top:-9px; 
+}
+a:link, a:visited, a:active{
+    text-decoration:none;
+}
+h2:link, h2:visited, h2:active{
+    text-decoration: none;
+}
+
+
+.input-group{
+    border-radius:30px;
+    width:410px;
+    height:50px;      
+    margin-left:1%;
+    margin-top:-10px;  
+   
+}
+.btn-default{
+    background-color:white;
+    width:50px;
+    height:50px;
+    border-radius:30px;
+}
+
+
+#haber{
+    width:80px;
+    position:absolute;
+    margin-right:70px;
+    height:80px; 
+}
+.portfolio-item{
+    border-radius:50%;
+    width:200px;
+}
+
+.mySlides {display:none;}
+
+
+
+
+#tst{
+    background-color:#008ed3;
+    position:relative;
+    border-radius:50%;
+    height:250px;
+    width:250px;
+    margin-left:0%;
+}
+#tst2{
+    margin-top:70px;      
+    float:center;
+    width:188px;
+    position:absolute; left:25px; 
+    color:white;
+    letter-spacing:1px;    
+    font-size:22px;
+    text-align:center;
+    font-family:"Montserrar Negra";
+}
+#tst2 h2{
+    margin-left:10px;
+}
+.portfolio-item{
+    border-radius:50%;
+    width:250px;
+}
+
+.mySlides {display:none;}
+
+
+#global-dos{
+    float:right;
+    width:70px;
+    height:65px;
+    margin-right:40px;
+    margin-top:3px;
+    background-color:white;
+    position:relative;
+    border-radius:50%;
+    border-color:1px solid white;
+}
+
+#global-dos .dropdown{
+    float:right;
+    margin-right:65px;
+    height:45px;
+    position:relative;
+    border-radius:50%;
+    margin-right:5px;
+    margin-top:0px;
+}
+#global-dos .dropdown-menu{
+    margin-top:10px;
+    float:left;
+    background-color:#acacac;
+
+}
+#haber{
+    width:80px;
+    position:absolute;
+    margin-right:70px;
+    height:80px; 
+}

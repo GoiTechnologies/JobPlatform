@@ -1,0 +1,73 @@
+#conten{
+    background-color:#00aeef;
+    color: white;
+    border: solid;
+    border-color:#00aeef;
+}
+
+#heade{
+    background-color:#00aeef;
+    color: white;
+    border: solid;
+    border-color:#00aeef;
+}
+#dialo{
+    background-color:#00aeef;
+    color: white;
+}
+
+#bod{
+    background-color:#00aeef;
+    color: white;
+    border: solid;
+    border-color:#00aeef;
+    font-size: 15px;
+}
+#foot{
+    background-color:#00aeef;
+    color: white;    border: solid;
+    border-color:#00aeef;
+}
+
+.modal-footer .btn-success{
+    background-color: #0066b2;
+    color: white;
+    border: 1 solid;
+    background-color: #0066b2;
+}
+
+.modal-footer .btn-success:hover{
+    background-color: #0066b2;
+
+}
+
+
+.modal-body .btn-info{
+    background-color: #0066b2;
+    border: 1px solid;
+    border-color: #0066b2;
+    color: white;
+    border-radius: 30px;
+    margin-left: 1%;
+    width: 26%;
+}
+.modal-body .btn-info:hover{
+    color: white;
+    background-color: #00aeef;
+    border: 1px solid;
+    border-color: #00aeef;
+}
+
+.modal-body .btn-light{
+    background-color: #0066b2;
+    border: 1px solid;
+    border-color: #0066b2;
+    color: white;
+    border-radius: 30px;
+    margin-left: 22%;
+    width: 26%;
+}
+.modal-body .btn-light:hover{
+    color: white;
+    background-color: #00aeef;
+}

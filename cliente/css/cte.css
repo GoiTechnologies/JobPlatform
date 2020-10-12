@@ -1,0 +1,59 @@
+body{
+    font-family: "Montserrat Normal"
+}
+a:link, a:visited, a:active{
+    text-decoration:none;
+    color: white;
+}
+
+
+#foto img{
+    border-radius:50%;
+    height:260px;  
+    position:relative;
+    width:100%;
+    border:6px solid #0066b2;
+    margin-left:0px;
+}
+#t{
+    position:absolute;
+    margin-top:-170px;
+    border:6px solid white;
+    border-radius:50%;
+    width:80%;
+    text-align:center;  
+    /*margin-left:-10px;*/
+    
+}
+#cuerpo{
+    width:327px;
+    height:420px;
+    background-color:#0066b2;
+    border-radius:7px;
+    position:relative;   
+    padding-left:35px;      
+}
+   
+#perfil{
+    height:580px;
+    width:90%;    
+    margin-top:20px;    
+    padding-top:100px;
+}
+
+.mySlides {display:none;}
+
+#cuerpo .btn{
+    background-color: white;
+    color: #008ed3;
+    width: 120px;
+    border-radius:5px; 
+    text-align:center;
+    letter-spacing:1.1px;
+    margin-left: 0px;
+}
+
+#cuerpo .btn:hover{
+    background-color: #008ed3;
+    color: white;
+}
